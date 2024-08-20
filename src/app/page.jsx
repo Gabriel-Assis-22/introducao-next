@@ -25,6 +25,8 @@ export default function Home() {
           alt="logo"
           className={styles.imageHomePage}
         />
+{/* <button className={styles.botao}> <Link href="/usuarios/login">temp</Link></button> */}
+       
         </div>
     </div>
   )
